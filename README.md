@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋, My Name is Fady Hatta
 
+
+>
+<p><em>Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 <!--
 **Manhattaa/Manhattaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

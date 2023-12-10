@@ -1,4 +1,4 @@
-## Hi! I'm Fady
+## Hi! I'm Fady👋
 
 - 🇸🇪  I'm a .NET student expecting to graduate by late 2024
 - 📚 Learning something new everyday!

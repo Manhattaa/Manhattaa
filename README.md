@@ -6,6 +6,11 @@
 - ❤️ I'm passionate about building and experiencing the future of Tech and learning new things
   <img src="![](https://komarev.com/ghpvc/?username=Manhattaa"/>
 
+  <img <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<github-username>"/>  
+    </div> />
+
 ## Skills
 * C#
 * SQL

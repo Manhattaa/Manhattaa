@@ -4,7 +4,7 @@
 - 📚 Learning something new everyday!
 - 👩‍🏫 Right now I'm tinkering on all kinds of passion projects to try to push my limits
 - ❤️ I'm passionate about building and experiencing the future of Tech and learning new things
-  ![Orange](https://komarev.com/ghpvc/?username=Manhattaa
+  ![](https://komarev.com/ghpvc/?username=Manhattaa
 
 ## Skills
 * C#

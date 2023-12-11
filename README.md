@@ -16,6 +16,6 @@
 ## Skills
 * C#
 * SQL
-* PHP
 * HTML
+* CSS
 <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/jacquelineshadforth-1696781773-0.gif" width="200" />

@@ -15,7 +15,11 @@
 
 ## Skills
 * C#
-* SQL
-* HTML
-* CSS
+* JavaScript
+* MICROSOFT AZURE
+* REACTJS
+* ThreeJS
+* NextJS
+* SQL - MSSQL - MongoDB
+* HTML / CSS
 <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/jacquelineshadforth-1696781773-0.gif" width="200" />

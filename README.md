@@ -16,8 +16,9 @@
 ## Skills
 * C#
 * JavaScript
-* MICROSOFT AZURE
+* MICROSOFT AZURE / CI/CD Pipelines
 * REACTJS - ThreeJS - NextJS
+* VUE
 * SQL - MSSQL - MongoDB
 * HTML / CSS
 <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/jacquelineshadforth-1696781773-0.gif" width="200" />
